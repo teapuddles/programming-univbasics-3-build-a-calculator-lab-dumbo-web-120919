@@ -19,7 +19,7 @@ def multiplication(num1, num2)
 end
 
 def modulo(num1, num2)
-  summodulo = num1.Float / num2.Float
+  summodulo = num1 % num2
   return summodulo
 end
 
