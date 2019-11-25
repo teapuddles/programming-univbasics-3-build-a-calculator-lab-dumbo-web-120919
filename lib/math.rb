@@ -20,7 +20,7 @@ end
 
 def modulo(num1, num2)
   summodulo = num1.Float / num2.Float
-  return summodulo.Float
+  return summodulo
 end
 
 def square_root(num)
